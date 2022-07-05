@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+button {
+    box-shadow: .5px .5px .5px .5px rgba(128, 128, 128, 0.247);
+    width: calc(2cm + 5%);
+    height: calc(.6cm + 5%);
+    background-color: blue;
+    outline: none;
+    border: none;
+    color: aliceblue;
+    border-radius: .1cm;
+}

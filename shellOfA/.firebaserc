@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "emctesting-c53c2"
+  },
+  "targets": {
+    "emctesting-c53c2": {
+      "hosting": {
+        "shellOfA": [
+          "smartexperim"
+        ]
+      }
+    }
+  }
+}
